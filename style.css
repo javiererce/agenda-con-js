@@ -1,0 +1,13 @@
+body{
+    color: aqua;
+    background-image: url("./img/descarga\ \(1\).jpg")
+}
+h3,h6{
+    align-items: center;
+}
+img{
+    width: 600px;
+    height: 250px;
+    align-content: center;
+    border-radius: 7%;
+}
